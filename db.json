@@ -3,22 +3,19 @@
         {
           "id": 0,
           "description": "This is the first sample NFT.",
-          "external_url": "https://training.mammothinteractive.com/",
-          "image": "https://pixabay.com/get/g8fa5fff759c24417920efb3060b818c828752e017796b9a9f98d4406c2412c1d52d18e9a2fb1ca007516d8f72c9cd62d.svg",
+          "external_url": "https://training.mammothinteractive.com/", 
           "name": "Hello NFT 0"
         },
         {
           "id": 1,
           "description": "This is the second sample NFT.",
-          "external_url": "https://training.mammothinteractive.com/",
-          "image": "https://pixabay.com/get/g8fa5fff759c24417920efb3060b818c828752e017796b9a9f98d4406c2412c1d52d18e9a2fb1ca007516d8f72c9cd62d.svg",
+          "external_url": "https://training.mammothinteractive.com/", 
           "name": "Hello NFT 1"
         },
         {
           "id": 2,
           "description": "This is the third sample NFT.",
           "external_url": "https://training.mammothinteractive.com/",
-          "image": "https://pixabay.com/get/g8fa5fff759c24417920efb3060b818c828752e017796b9a9f98d4406c2412c1d52d18e9a2fb1ca007516d8f72c9cd62d.svg",
           "name": "Hello NFT 2"
         }
     ]
